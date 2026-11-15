@@ -8,15 +8,14 @@ const birthday = {
     age: 18,
 
     message: `
-        Happy Birthday to someone who makes
-        the world a little more beautiful.
+        Happy Birthday!
 
-        May every little dream come true.
-        May happiness always find its way to you.
+        Wishing you a day filled with happiness and beautiful little moments.
 
-        Thank you for being you.
-        You deserve all the beautiful things
-        in this world.
+        May every little dream come true, and may life bring you countless reasons to smile.
+
+        Keep being the wonderful person you are.
+        You deserve all the good things this world has to offer.
 
         Never stop smiling. ♡
     `,
